@@ -6,6 +6,7 @@ node_modules/
 .next/build-manifest.json
 .next/package.json
 .next/react-loadable-manifest.json
+.next/trace
 # Ignore Logs
 logs
 *.log
