@@ -1,0 +1,21 @@
+# Ignore the node_modules directory
+node_modules/
+.next/cache/
+.next/server/
+.next/static/
+.next/build-manifest.json
+.next/package.json
+.next/react-loadable-manifest.json
+# Ignore Logs
+logs
+*.log
+
+# Ignore the build directory
+/dist
+
+# The file containing environment variables 
+.env
+
+# Ignore IDE specific files
+.idea/
+.vscode/
