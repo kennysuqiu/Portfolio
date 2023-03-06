@@ -27,7 +27,7 @@ const Contact = () => {
           "service_57lj603", // service id
           "template_nzxux2h", // template id
           mailData,
-          "oplActhvGASgXhAdP" // public api
+          "oplActhvGASgXhAdP" // public api test
         )
         .then(
           (response) => {
